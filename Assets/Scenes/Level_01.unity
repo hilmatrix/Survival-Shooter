@@ -1484,6 +1484,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2002912334, guid: 1b083cc8174ba694587b934b5c1506db, type: 3}
+      propertyPath: m_Name
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 4282726174462350358, guid: 1b083cc8174ba694587b934b5c1506db,
         type: 3}
       propertyPath: healthSlider
@@ -1528,10 +1532,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2002912334, guid: 1b083cc8174ba694587b934b5c1506db, type: 3}
-      propertyPath: m_Name
-      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 2003146864, guid: 1b083cc8174ba694587b934b5c1506db, type: 3}
       propertyPath: m_LocalPosition.x
